@@ -1,0 +1,9 @@
+Numpy - numerical computing processing tool, just to process numbers
+
+Remember that computers can only
+process 1s and 0s. Binary machine.
+
+The RAM stores the data that is being currently processed.
+For example if RAM is 8GB, it means that can process 8GB of bits at the same time.
+
+We often wish to use least amount of memory, so that we could process more.
